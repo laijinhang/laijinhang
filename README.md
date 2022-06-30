@@ -11,13 +11,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
----
 
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=laijinhang&theme=xcode" /> </div>
 
 <!--
 ### Hi there 👋
+---
+<div align="right"> <img src="https://activity-graph.herokuapp.com/graph?username=laijinhang&theme=xcode" /> </div>
 **laijinhang/laijinhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
